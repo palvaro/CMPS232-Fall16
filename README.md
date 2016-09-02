@@ -1,17 +1,17 @@
-# CMPS290S-Winter16: 
-## Distributed storage systems and programming models
+# CMPS232S-Fall16
+## Graduate Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Tuesdays and Thursdays at <b>Noon</b>. |
-|Where: | Social Sciences 2, 159 |
+|When: | Monday, Wednesday and Friday at 9am</b>. |
+|Where: | ?? |
 |Who: | Peter Alvaro |
-|Office hours: | Tue 2-3pm, Thu 10:45 - 11:45 |
-|Prerequisites: | A background in systems and an interest in theory |
-|Readings: | [Readings](https://github.com/palvaro/CMPS290S-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
+|Office hours: | Wednesday 11-12pm |
+|Prerequisites: | A passion for reading and a hunger for discussion |
+|Readings: | [Readings](https://github.com/palvaro/CMPS232-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
 
 # Description
 
-This graduate seminar will explore distributed systems research, both current and historical, with a particular focus on storage systems and programming models.
+This graduate seminar will explore distributed systems research, both current and historical.
 
 Due to fundamental uncertainty in their executions arising from asynchronous communication and partial failure, distributed systems present unique challenges to programmers and users.  Moreover, distributed systems are increasingly ubiquitous: nearly all non-trivial systems are now physically distributed.  It is no longer possible to relegate responsibility for managing the complexity of distributed systems to a group of expert library or infrastructure writers: all programmers must now be distributed programmers. This is both a crisis and an opportunity.
 
@@ -42,7 +42,7 @@ This course is a research seminar: we will focus primarily on reading and discus
  
 # Presentations
 
-All students will be expected to present at least two research papers to the class.  The presentation format is open: students will not be required to prepare slides (though doing so may help to organize the subject matter).  If you do use slides, they should be original (created by you), and external material such as figures should be properly attributed.  If you choose not to present slides, use the whiteboard well.
+All students will be expected to present at least one (ideally two) research papers to the class.  The presentation format is open: students will not be required to prepare slides (though doing so may help to organize the subject matter).  If you do use slides, they should be original (created by you), and external material such as figures should be properly attributed.  If you choose not to present slides, use the whiteboard well.
 
 
 # Final Project

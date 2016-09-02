@@ -1,4 +1,5 @@
 |Date|Subject|Reading|Link|Presented by|
+|------------|-------------|-------------|-------------|------------|
 |9/23/2016|Intro|None||Me|
 |9/26/2016|Clocks|Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)|||
 |9/28/2016|Clocks|Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail|https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf||
@@ -29,4 +30,4 @@
 |11/25|HOLIDAY||||
 |11/28|scheduling? |mesos and borg?|||
 |11/30|POSTER SESSION||||
-|12/2|||||
+|12/2|wrapup||||
