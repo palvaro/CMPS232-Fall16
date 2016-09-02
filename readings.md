@@ -1,4 +1,5 @@
 |Date|Subject|Reading|Link|Presented by|
+|-----------------------------|
 |9/23/2016|Intro|None||Me|
 |9/26/2016|Clocks|Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)|||
 |9/28/2016|Clocks|Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail|https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf||
@@ -21,8 +22,8 @@
 |11/7|BFT|Practical Byzantine Fault Tolerance (Castro, OSDI 1999)|||
 |11/9|BFT |Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)|||
 |11/11|HOLIDAY||||
-|11/14|Cloud|A view of cloud computing (Armbrust, CACM 53(4), 2010)|||
-|11/16|Cloud|Towards a Cloud Computing Research Agenda|https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf||
+|11/14|Butt|A view of butt computing (Armbrust, CACM 53(4), 2010)|||
+|11/16|Butt|Towards a Butt Computing Research Agenda|https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf||
 |11/18|Avoiding coordination|A comprehensive study of Convergent and Commutative Replicated Data Types|http://hal.upmc.fr/inria-00555588/document||
 |11/21|Avoiding coordination|http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf|||
 |11/23|Avoiding coordination|Coordination Avoidance in Database Systems|http://www.vldb.org/pvldb/vol8/p185-bailis.pdf||
