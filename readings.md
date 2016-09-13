@@ -8,8 +8,8 @@
 |10/5|Communication|SEDA|||
 |10/7|Seminal Theory|Impossibility of Distributed Consensus with One Faulty Process|https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf||
 |10/10|Seminal Theory|Using Reasoning About Knowledge to analyze Distributed Systems|https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf||
-|10/12|Consensus|Paxos made simple|||
-|10/14|Consensus|Raft|http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf||
+|10/12|Consensus|Paxos made simple|http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf||
+|10/14|Consensus|Raft|https://raft.github.io/raft.pdf||
 |10/17|Consensus|State machine replication|||
 |10/19|Naming|Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord|https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf||
 |10/21|Naming|Internet Indirection Infrastructure|||
