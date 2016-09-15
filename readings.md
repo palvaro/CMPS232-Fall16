@@ -1,5 +1,5 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
-|------------|-------------|<a href="-------------">-------------</a>|------------|
+|------------|-------------|-------------|------------|
 |9/23/2016|Intro|<a href="">None</a>|Me|
 |9/26/2016|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>||
 |9/28/2016|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
