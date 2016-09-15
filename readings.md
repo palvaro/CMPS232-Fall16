@@ -1,5 +1,5 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
-|------------|-------------|<a href="-------------">-------------</a>|------------|
+|------------|-------------|-------------|------------|
 |9/23/2016|Intro|<a href="">None</a>|Me|
 |9/26/2016|Time|<a href="">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>||
 |9/28/2016|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
@@ -21,8 +21,8 @@
 |11/4|LIGHTNING TALKS|<a href=""></a>||
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>||
 |11/9|HOLIDAY|<a href=""></a>||
-|11/11|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>||
-|11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
+|11/11|Butt|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of butt computing (Armbrust, CACM 53(4), 2010)</a>||
+|11/14|Butt|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Butt Computing Research Agenda</a>||
 |11/16|Programming models|<a href="">Sinfonia</a>||
 |11/18|Programming models|<a href="">MapReduce</a>||
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
