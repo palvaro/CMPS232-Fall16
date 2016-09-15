@@ -1,5 +1,5 @@
 |Date|Subject|<a href="Link">Reading</a>|Presented by|
-|------------|-------------|-------------|------------|
+|------------|-------------|<a href="-------------">-------------</a>|------------|
 |9/23/2016|Intro|<a href="">None</a>|Me|
 |9/26/2016|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>||
 |9/28/2016|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
@@ -15,9 +15,9 @@
 |10/21|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
 |10/24|Storage |<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
 |10/26|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
-|10/28|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-sosp15.pdf">Ceph</a>||
+|10/28|Storage |<a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/weil/weil.pdf">Ceph</a>||
 |10/31|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
-|11/2|BFT|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>||
+|11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>||
 |11/4|LIGHTNING TALKS|<a href=""></a>||
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>||
 |11/9|HOLIDAY|<a href=""></a>||
