@@ -69,7 +69,7 @@ Final projects are required to pass the course.  The fact that participation acc
 
 Collaboration is a key part of research.  I encourage you to discuss the readings and the final project ideas with your classmates.  However, you must reveal the students with whom you discussed the papers in your summaries.  Failure to do so will result in formal disciplinary proceedings.  
 
-I should not need to say so, but I do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  Missing a relevant piece of related work is an embarassment for any  researcher; failure to cite a direct influence is dishonest and catastrophic to a researcher's career.  The related work section is one of the most critical parts of any paper: spend an adequate amount of time on it.
+I should not need to say so, but I do: plagiarism in any form is not acceptable and will not be tolerated.  As researchers, we always stand upon the shoulders of giants, and building upon existing work is the norm.  It is essential, however, that we provide proper attribution.  When in doubt, cite!  Missing a relevant piece of related work is an embarrassment for any  researcher; failure to cite a direct influence is dishonest and catastrophic to a researcher's career.  The related work section is one of the most critical parts of any paper: spend an adequate amount of time on it.
 
 
 
