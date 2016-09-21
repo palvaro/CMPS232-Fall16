@@ -47,10 +47,10 @@ All students will be expected to present at least one (ideally two) research pap
 
 # Final Project
 
-Students must submit a final project related to distributed storage systems and/or programming models.  Projects can be of one of two kinds:
+Students must submit a final project related to distributed systems.  Projects can be of one of two kinds:
 
  * Research projects, which present novel research that could (eventually) lead to a conference or workshop publication.  I strongly encourage you to do a project of this kind; after all, research is what we are here to do.  Systems research is challenging and quarters are short, so students may work in teams of up to three people.  Note however that the number of contributors will be considered when the projects are graded.  A team of three can and should take on a substantially more ambitious problem than a team of two or one.
- * Survey papers, which attempt to provide a complete picture of work in a narrow area.  Survey papers may only have one author.  Needless to say, they should not cover material already covered in class.
+ * Survey papers, which attempt to provide a complete picture of work in a narrow area.  Unlike a research paper, which is judged on the novelty of its contribution to computer science, a survey will be judged on its *completeness* -- does it adequately cover its area? Survey papers may only have one author.  Needless to say, they should not cover material already covered in class.  
  
 Re-submitting a paper already submitted in any form to a class from a previous semester is not allowed.  Submitting a paper concurrently to another class is allowed only with pre-approval from the instructor.  In such cases, as with group papers, I expect the work to be especially strong.
 
