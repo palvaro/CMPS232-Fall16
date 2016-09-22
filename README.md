@@ -2,8 +2,8 @@
 ## Graduate Distributed Systems
 | key | value | 
 |-----|-------|
-|When: | Monday, Wednesday and Friday at 9am</b>. |
-|Where: | ?? |
+|When: | Monday, Wednesday and Friday from 9:20 to 10:25 AM</b>. |
+|Where: | Cowell Classroom 131 |
 |Who: | Peter Alvaro |
 |Office hours: | Wednesday 11-12pm |
 |Prerequisites: | A passion for reading and a hunger for discussion |
@@ -22,7 +22,7 @@ This course focuses on these systems, models and languages.  We will cover the f
 
  * Consistency models
  * Large-scale storage systems and data processing frameworks
- * Commit, consensus and synchronization protocols
+ * Consensus and synchronization protocols
  * Data replication and partitioning
  * Fault-tolerant design
  * Programming models
