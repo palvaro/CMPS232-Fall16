@@ -9,7 +9,7 @@
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
 |10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
 |10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>||
-|10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>||
+|10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>|Ashutosh Raina|
 |10/17|Consensus|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>||
 |10/19|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>||
 |10/21|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
@@ -27,7 +27,7 @@
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
 |11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>||
-|11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>||
+|11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina|
 |11/28|HOLIDAY|<a href=""></a>||
 |11/30|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>||
 |12/2|wrapup|<a href=""></a>||
