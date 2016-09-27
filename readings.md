@@ -3,7 +3,7 @@
 |9/23/2016|Intro|<a href="">None</a>|Me|
 |9/26/2016|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>||
 |9/28/2016|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
-|9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls, A Note on Distributed Computing</a>||
+|9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls, A Note on Distributed Computing</a>|Vedashree(Distributed Computing)|
 |10/3|Naming|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord</a>|Ethan|
 |10/5||<a href="">NO CLASS?</a>|Peter out!|
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
@@ -21,7 +21,7 @@
 |11/4|LIGHTNING TALKS|<a href=""></a>||
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>||
 |11/9|HOLIDAY|<a href=""></a>||
-|11/11|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>||
+|11/11|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>|Vedashree|
 |11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>||
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>||
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>||
