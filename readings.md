@@ -6,7 +6,7 @@
 |9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls, A Note on Distributed Computing</a>||
 |10/3|Naming|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord</a>|Ethan|
 |10/5||<a href="">NO CLASS?</a>|Peter out!|
-|10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan|
+|10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan, Yiming|
 |10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
 |10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>||
 |10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>||
