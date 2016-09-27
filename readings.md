@@ -6,7 +6,7 @@
 |9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls, A Note on Distributed Computing</a>||
 |10/3|Naming|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord</a>|Ethan|
 |10/5||<a href="">NO CLASS?</a>|Peter out!|
-|10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>||
+|10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan|
 |10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
 |10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>||
 |10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>||
@@ -17,7 +17,7 @@
 |10/26|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
 |10/28|Storage |<a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/weil/weil.pdf">Ceph</a>||
 |10/31|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
-|11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>||
+|11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>|Zheyuan|
 |11/4|LIGHTNING TALKS|<a href=""></a>||
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>||
 |11/9|HOLIDAY|<a href=""></a>||
