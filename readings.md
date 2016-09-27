@@ -26,7 +26,7 @@
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>||
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin|
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>||
-|11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>||
+|11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>|Nikhil Kini|
 |11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina|
 |11/28|HOLIDAY|<a href=""></a>||
 |11/30|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>||
