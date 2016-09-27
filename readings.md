@@ -4,14 +4,14 @@
 |9/26/2016|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>||
 |9/28/2016|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
 |9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls, A Note on Distributed Computing</a>||
-|10/3|Naming|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord</a>|Ethan|
-|10/5||<a href="">NO CLASS?</a>|Peter out!|
+|10/3|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>|Michael, Annlin|
+|10/5|Naming|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord</a>|Ethan|
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan|
 |10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>||
 |10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>||
 |10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>||
 |10/17|Consensus|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>||
-|10/19|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>|Annlin|
+|10/19||<a href="">?</a>||
 |10/21|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
 |10/24|Storage |<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
 |10/26|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
