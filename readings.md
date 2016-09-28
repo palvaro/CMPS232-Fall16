@@ -3,7 +3,7 @@
 |9/23/2016|Intro|<a href="">None</a>|Me|
 |9/26/2016|Time|<a href="http://amturing.acm.org/p558-lamport.pdf">Time, Clocks, and the Ordering of Events in a Distributed System (Lamport, CACM 1978)</a>||
 |9/28/2016|Time|<a href="https://www.vs.inf.ethz.ch/publ/papers/holygrail.pdf">Detecting Causal Relationships in Distributed Computations: In Search of the Holy Grail</a>||
-|9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls</a>, <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628" >A Note on Distributed Computing</a>|Vedashree|
+|9/30/2016|Communication|<a href="http://www.cs.virginia.edu/~zaher/classes/CS656/birrel.pdf">Implementing remote procedure calls</a>, <a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.41.7628" >A Note on Distributed Computing</a>|Vedashree, Anirudh|
 |10/3|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>|Michael, Annlin, Anuradha Talur |
 |10/5|Naming|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications; Using Lightweight Modeling To Understand Chord</a>|Ethan, Kathryn, Brandon Luu|
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan, Yiming Zhang, Daniel B|
@@ -24,7 +24,7 @@
 |11/11|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V, Ashwini P,Vedashree|
 |11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben|
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Aneesh Neelam|
-|11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Umang Sardesai|
+|11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Umang Sardesai, Anirudh|
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell|
 |11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>|Nikhil Kini, Akhil Dixit|
 |11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina|
