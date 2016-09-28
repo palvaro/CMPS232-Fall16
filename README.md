@@ -8,6 +8,7 @@
 |Office hours: | Wednesday 11-12pm |
 |Prerequisites: | A passion for reading and a hunger for discussion |
 |Readings: | [Readings](https://github.com/palvaro/CMPS232-Winter16/blob/master/readings.md) (volatile; subject to significant change)|
+|TA: | Michael Shavlovsky (mshavlov@ucsc.edu)|
 
 # Description
 
