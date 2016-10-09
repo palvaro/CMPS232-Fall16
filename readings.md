@@ -7,13 +7,13 @@
 |10/3|Storage |<a href="http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">Dynamo: Amazon’s Highly Available Key-value Store</a>|Michael, Annlin, Anuradha Talur |
 |10/5|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>; <a href="http://www.sigcomm.org/sites/default/files/ccr/papers/2012/April/2185376-2185383.pdf">Using Lightweight Modeling To Understand Chord</a>|Ethan, Kathryn, Brandon Luu|
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan, Yiming Zhang, Daniel B, Yifan Wei|
-|10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Kathryn, Saya|
-|10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Daniel B, Saya,Yifan Wei, Yujie Deng|
+|10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Kathryn|
+|10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Daniel B, Yifan Wei, Yujie Deng, Shobhit Maheshwari|
 |10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>|Ashutosh Raina, Kenneth Chang, Ben, Pinglei Guo|
 |10/17|Consensus|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>|yegeta zeleke, Akhil Dixitm, Brandon Luu, Yujie Deng|
 |10/19||<a href="">?</a>||
 |10/21|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Vedang Joshi, Aniket Kulkarni,Qihui Yang, Oceane Bel|
-|10/24|Storage |<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Devashish, Anuradha Talur, Matt Bryson |
+|10/24|Storage |<a href="http://sns.cs.princeton.edu/docs/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>|Devashish, Anuradha Talur, Matt Bryson, Shobhit Maheshwari |
 |10/26|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Anuradha Talur, Ashwini P, Ethan V|
 |10/28|Storage |<a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/weil/weil.pdf">Ceph</a>|Aniket Kulkarni, Vedang Joshi, Pinglei Guo,Yuanjiang NI, Yiming Zhang, Qihui Yang, Tuan|
 |10/31|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>|yegeta Zeleke, Nikhil Kini, Oceane Bel, Aneesh Neelam|
