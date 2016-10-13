@@ -19,7 +19,7 @@
 |10/31|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>|yegeta Zeleke, Nikhil Kini, Oceane Bel, Aneesh Neelam|
 |11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>|Zheyuan, Reza, Alif Sarker|
 |11/4|LIGHTNING TALKS|<a href=""></a>||
-|11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell|
+|11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU|
 |11/9|HOLIDAY|<a href=""></a>||
 |11/11|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V, Ashwini P,Vedashree, Jia Song, Yifeng Liu|
 |11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
@@ -27,7 +27,7 @@
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Anirudh, Matt Bryson|
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell, Tuan|
 |11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>|Nikhil Kini, Akhil Dixit|
-|11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina, Qihui Yang|
+|11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina, Qihui Yang, YIFENG LIU|
 |11/28|HOLIDAY|<a href=""></a>||
 |11/30|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>||
 |12/2|wrapup|<a href=""></a>||
