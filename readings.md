@@ -19,7 +19,7 @@
 |10/31|<a href="">?</a>||
 |11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>|Zheyuan, Reza, Alif Sarker|
 |11/4|LIGHTNING TALKS|<a href=""></a>||
-|11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU|
+|11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU，Tianyi Lin|
 |11/9|HOLIDAY|<a href=""></a>||
 |11/11|Butt|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of butt computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V, Ashwini P,Vedashree, Jia Song, Yifeng Liu|
 |11/14|Butt|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Butt Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
@@ -29,5 +29,5 @@
 |11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>|Nikhil Kini, Akhil Dixit|
 |11/25|Avoiding coordination|<a href="http://www.vldb.org/pvldb/vol8/p185-bailis.pdf">Coordination Avoidance in Database Systems</a>|Ashutosh Raina, Qihui Yang, YIFENG LIU, Yuanjiang|
 |11/28|HOLIDAY|<a href=""></a>||
-|11/30|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>|Tuan|
+|11/30|debugging|<a href="http://www.cis.upenn.edu/~angchen/papers/sigcomm-2016.pdf">The Good, the Bad, and the Differences: Better Network Diagnostics with Differential Provenance</a>|Tuan，Tianyi Lin|
 |12/2|wrapup|<a href=""></a>||
