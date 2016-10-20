@@ -17,9 +17,9 @@
 |10/26|Storage |<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>|Anuradha Talur, Ashwini P, Ethan V, Shobhit Maheshwari|
 |10/28|Storage |<a href="https://www.usenix.org/legacy/event/osdi06/tech/full_papers/weil/weil.pdf">Ceph</a>|Aniket Kulkarni, Vedang Joshi, Pinglei Guo, Yiming Zhang|
 |10/31|<a href="">?</a>||
-|11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>|Zheyuan, Reza, Alif Sarker|
+|11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>|Zheyuan, Reza, Alif Sarker, Yusi Xiang|
 |11/4|LIGHTNING TALKS|<a href=""></a>||
-|11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU，Tianyi Lin|
+|11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU，Tianyi Lin, Yusi Xiang|
 |11/9|HOLIDAY|<a href=""></a>||
 |11/11|Butt|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of butt computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V, Ashwini P,Vedashree, Jia Song, Yifeng Liu|
 |11/14|Butt|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Butt Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
