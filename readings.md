@@ -20,8 +20,8 @@
 |11/2|BFT|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance (Castro, OSDI 1999)</a>|Zheyuan, Reza, Alif Sarker, Yusi Xiang|
 |11/4|LIGHTNING TALKS|<a href=""></a>||
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU，Tianyi Lin, Yusi Xiang|
-|11/9|HOLIDAY|<a href=""></a>||
-|11/11|Butt|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of butt computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V, Ashwini P,Vedashree, Jia Song, Yifeng Liu|
+|11/9|Cloud|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of cloud computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V, Ashwini P,Vedashree, Jia Song, Yifeng Liu|
+|11/11|HOLIDAY|<a href=""></a>||
 |11/14|Butt|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Butt Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Aneesh Neelam, Jia Song, Alif Sarker|
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Anirudh, Matt Bryson|
