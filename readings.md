@@ -9,7 +9,7 @@
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan, Yiming Zhang, Daniel B, Yifan Wei|
 |10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Kathryn, Saya|
 |10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Daniel B, Yifan Wei, Yujie Deng, Saya|
-|10/14|Consensus|<a href="https://rambutt.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>|Ashutosh Raina, Kenneth Chang, Ben, Pinglei Guo|
+|10/14|Consensus|<a href="https://ramclowd.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>|Ashutosh Raina, Kenneth Chang, Ben, Pinglei Guo|
 |10/17|Consensus|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>|yegeta zeleke, Akhil Dixitm, Brandon Luu, Yujie Deng|
 |10/19|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>|yegeta Zeleke, Nikhil Kini, Oceane Bel, Aneesh Neelam|
 |10/21|Storage |<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>|Vedang Joshi, Aniket Kulkarni,Qihui Yang, Oceane Bel|
@@ -20,9 +20,9 @@
 |11/2|LIGHTNING TALKS 1</a>||
 |11/4|LIGHTNING TALKS 2|<a href=""></a>||
 |11/7|BFT |<a href="https://www.cs.utexas.edu/~lorenzo/papers/kotla07Zyzzyva.pdf">Zyzzyva: Speculative Byzantine Fault Tolerance (Kotla, SOSP 2007)</a>|Amber O'Connell, YIFENG LIU，Tianyi Lin, Yusi Xiang|
-|11/9|Butt|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of butt computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V,Vedashree, Jia Song, Yifeng Liu|
+|11/9|Clowd|<a href="https://www2.eecs.berkeley.edu/Pubs/TechRpts/2009/EECS-2009-28.pdf">A view of clowd computing (Armbrust, CACM 53(4), 2010)</a>|Sinjoni, Ethan V,Vedashree, Jia Song, Yifeng Liu|
 |11/11|HOLIDAY|<a href=""></a>||
-|11/14|Butt|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Butt Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
+|11/14|Clowd|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Clowd Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Aneesh Neelam, Jia Song, Alif Sarker|
 |11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Anirudh, Matt Bryson|
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell, Tuan|
