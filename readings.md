@@ -8,7 +8,7 @@
 |10/5|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>; <a href="http://www.sigcomm.org/sites/default/files/ccr/papers/2012/April/2185376-2185383.pdf">Using Lightweight Modeling To Understand Chord</a>|Ethan, Kathryn, Brandon Luu|
 |10/7|Seminal Theory|<a href="https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf">Impossibility of Distributed Consensus with One Faulty Process</a>|Zheyuan, Yiming Zhang, Daniel B, Yifan Wei|
 |10/10|Seminal Theory|<a href="https://www.cs.cornell.edu/home/halpern/papers/UsingRAK.pdf">Using Reasoning About Knowledge to analyze Distributed Systems</a>|Kathryn, Saya|
-|10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Daniel B, Yifan Wei, Yujie Deng, Saya|
+|10/12|Consensus|<a href="http://research.microsoft.com/en-us/um/people/lamport/pubs/paxos-simple.pdf">Paxos made simple</a>|Aziz,Daniel B, Yifan Wei, Yujie Deng, Saya|
 |10/14|Consensus|<a href="https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf">Raft</a>|Ashutosh Raina, Kenneth Chang, Ben, Pinglei Guo|
 |10/17|Consensus|<a href="https://www.cs.cornell.edu/fbs/publications/SMSurvey.pdf">State machine replication</a>|yegeta zeleke, Akhil Dixitm, Brandon Luu, Yujie Deng|
 |10/19|fault tolerance|<a href="https://people.eecs.berkeley.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>|yegeta Zeleke, Nikhil Kini, Oceane Bel, Aneesh Neelam|
@@ -24,7 +24,7 @@
 |11/11|HOLIDAY|<a href=""></a>||
 |11/14|Cloud|<a href="https://www.cs.purdue.edu/homes/bb/cs590/handouts/Cornell.pdf">Towards a Cloud Computing Research Agenda</a>|Devashish, Yuanjiang Ni, Ben, Reza|
 |11/16|Programming models|<a href="http://www.sosp2007.org/papers/sosp064-aguilera.pdf">Sinfonia</a>|Aneesh Neelam, Jia Song, Alif Sarker|
-|11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Sinjoni, Annlin, Kenneth Chang, Anirudh|
+|11/18|Programming models|<a href="http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf">MapReduce</a>|Aziz,Sinjoni, Annlin, Kenneth Chang, Anirudh|
 |11/21|Avoiding coordination|<a href="http://hal.upmc.fr/inria-00555588/document">A comprehensive study of Convergent and Commutative Replicated Data Types</a>|Amber O'Connell, Tuan|
 |11/23|Avoiding coordination|<a href="http://db.cs.berkeley.edu/papers/UCB-lattice-tr.pdf">Logic and Lattices for Distributed Programming</a>|Nikhil Kini, Akhil Dixit, Ashwini P, Andrew Klofas|
 |11/25|HOLIDAY|<a href=""></a>||
